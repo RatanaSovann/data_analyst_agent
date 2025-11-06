@@ -1,6 +1,5 @@
 # 🧠 Data Analyst AI Agent  
-**Powered by LangGraph, Streamlit, and Agentic AI Workflows**
-
+**Powered by LangGraph and Streamlit
 ---
 
 ## 📖 Overview
